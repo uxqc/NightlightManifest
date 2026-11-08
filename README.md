@@ -1,2 +1,4 @@
 # NightlightManifest
-Download Steam Lua & Manifest files
+
+Lua & Manifest scripts used by Nightlight Launcher :3
+Free to use :*
