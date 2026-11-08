@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 1941540 - Mafia: The Old Country
--- Generated 2026-11-08 21:03:35 UTC
+-- Generated 2026-11-08 23:08:31 UTC
 -- # Depots (Total/DLC/Shared): 4/0/3
 
 -- Main AppID
