@@ -1,0 +1,17 @@
+-- Generated with Luie @ https://lua.tools/
+-- 4954910 - Scam With Your Friends
+-- Generated 2026-11-09 19:52:24 UTC
+-- # Depots (Total/DLC/Shared): 2/1/0
+
+-- Main AppID
+addappid(4954910, 1, "8a9051a93f80aeeefb0ac0e26f3b230f513a03af0a2c27eb898fe2f905451443")
+
+-- Main Depots
+addappid(4954911, 1, "5ecd6cfa753bc263676f0dd579968e95d209b1e15363154df11fa51d51d4d94d")
+setManifestid(4954911, "8574294039451798761", 6582857944)
+
+-- DLC's (with depot keys)
+-- Scam With Your Friends Playtest (AppID: 5216930)
+addappid(5216930)
+addappid(5216931, 1, "b8f2978b380cce83216a913c9a7e30949df0f660311fb298dab0465bf15442f2")
+setManifestid(5216931, "1653400052220148739", 4672660222)
