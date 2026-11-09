@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 1237320 - Sonic Frontiers
--- Generated 2026-11-08 20:38:37 UTC
+-- Generated 2026-11-09 06:44:27 UTC
 -- # Depots (Total/DLC/Shared): 8/5/2
 
 -- Main AppID
