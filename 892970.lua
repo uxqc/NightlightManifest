@@ -1,0 +1,23 @@
+-- Generated with Luie @ https://lua.tools/
+-- 892970 - Valheim
+-- Generated 2026-11-09 08:09:35 UTC
+-- # Depots (Total/DLC/Shared): 5/2/0
+
+-- Main AppID
+addappid(892970, 1, "82c97459c7f36e035c12075be27cc05f5a36a91a9be322b60cb3e9f83b62cf29")
+
+-- Main Depots
+addappid(892971, 1, "fb041c748eb3303b0bb18fbad3b813d19052060d14953e0d7d735943075833fd") -- (linux)
+setManifestid(892971, "4702704970510748940", 4222188741)
+addappid(892972, 1, "10d286383a9248b6de0c8a160231b4d6332bce1da1fce424d4156329dda3ecf6") -- (windows)
+setManifestid(892972, "3316048117713314105", 4542664874)
+addappid(892973, 1, "6c4d88d54997dcc4234f7ed792e946c0386a6c9a4f242a2bc8c89b49d50f3975") -- (macos)
+setManifestid(892973, "1288151680412615980", 4586639854)
+
+-- DLC's (with depot keys)
+-- Valheim Soundtrack (AppID: 1620250)
+addappid(1620250)
+addappid(1620251, 1, "bc36439dff4e62bb524374697aea37fb663b8620544c71746ae49db548454536")
+setManifestid(1620251, "3698160566732742400", 306607180)
+addappid(1620253, 1, "0c2c6b2e467e512d3749986c82cb54dcbfb9467652dace00c5beff70629850cb")
+setManifestid(1620253, "4431844290703918667", 1610353839)
