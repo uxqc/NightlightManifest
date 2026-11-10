@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 3764200 - Resident Evil Requiem
--- Generated 2026-11-08 21:18:19 UTC
+-- Generated 2026-11-10 11:32:06 UTC
 -- # Depots (Total/DLC/Shared): 13/8/1
 
 -- Main AppID
