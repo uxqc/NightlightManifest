@@ -1,0 +1,32 @@
+-- Generated with Luie @ https://lua.tools/
+-- 975370 - Dwarf Fortress
+-- Generated 2026-11-10 22:37:42 UTC
+-- # Depots (Total/DLC/Shared): 8/4/1
+
+-- Main AppID
+addappid(975370, 1, "dae1b11a78f69965f974809434d7283b32d5e50d97d73858944d1eef82135cd0")
+
+-- Main Depots
+addappid(975371, 1, "aa6347285a9e6c185411c629fb9b716ec5cb596c82f4c92b6ff4f975ecceca02")
+setManifestid(975371, "9085854134650676945", 1407676296)
+addappid(975372, 1, "c614f2b35af4127b3055bd00e17855ab075066c9499166058d58f8ab634e7308") -- (windows)
+setManifestid(975372, "8097422301396761487", 34833808)
+addappid(975373, 1, "81d7b4688c2843358ad10f198f6f0a00a27d41800f4ad4109b933e6ac11ad955") -- (linux)
+setManifestid(975373, "7723162429053519061", 47387714)
+
+-- DLC's (with depot keys)
+-- Dwarf Fortress Soundtrack (AppID: 2232370)
+addappid(2232370)
+addappid(2232371, 1, "48ed24a4ce2a8019f8c444f2a12e6cb949e08a9ceb4bd43d58914931e303f57a")
+setManifestid(2232371, "3558914494587116351", 78597501)
+addappid(2232372, 1, "2faf686a277a6de07657d851f1aeccbc719a3bec2903797c51518373cd64151f")
+setManifestid(2232372, "2062948596904025613", 1199897646)
+-- Dwarf Fortress Soundtrack (AppID: 2937200)
+addappid(2937200)
+addappid(2937201, 1, "f155f5c2dc7acd5a9d9099fbe0b313d2e7e4e2db35f38757e690f483748bb778")
+setManifestid(2937201, "8470514290789150952", 230266075)
+addappid(2937202, 1, "9e822c65f9439457c797cf8dbd84482d399c03124fedab48492212cd886d3ed3")
+setManifestid(2937202, "8800275817188260956", 1336910476)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
