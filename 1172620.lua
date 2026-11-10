@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 1172620 - Sea of Thieves
--- Generated 2026-11-08 21:22:19 UTC
+-- Generated 2026-11-10 12:34:11 UTC
 -- # Depots (Total/DLC/Shared): 8/5/2
 
 -- Main AppID
