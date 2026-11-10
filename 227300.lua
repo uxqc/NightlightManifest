@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 227300 - Euro Truck Simulator 2
--- Generated 2026-11-08 21:14:23 UTC
+-- Generated 2026-11-10 21:18:24 UTC
 -- # Depots (Total/DLC/Shared): 117/113/0
 
 -- Main AppID
@@ -8,19 +8,19 @@ addappid(227300, 1, "4efc6eb3aea74680b954e5b88327ec42ef52984cb390f9dc905aab42a4a
 
 -- Main Depots
 addappid(227301, 1, "1baf18f6181ad3f9ce663dab07f93ba0f3f5194c82b64785e4cd9f63f3a56b28")
-setManifestid(227301, "6613623955388603233", 38450354164)
+setManifestid(227301, "7187240538134481568", 38468107403)
 addappid(227302, 1, "edfb6f81d8ec91175145051344fdf788840b2235df88cca912a7602de47f54af") -- (windows)
-setManifestid(227302, "8481764460491987927", 62686792)
+setManifestid(227302, "765416442879263719", 62687816)
 addappid(227303, 1, "f764a1a949001dd100176a10f3f0b50531c353122118ba0e41bea9eaafb0437f") -- (linux)
-setManifestid(227303, "267618861056229934", 57457712)
+setManifestid(227303, "2335551181872904169", 57457712)
 addappid(227304, 1, "32ab4f23d2cb9a8cb610b299d0012509d1b2b64dc694616d8a8c711a2d605057") -- (macos)
-setManifestid(227304, "6109042175182429724", 107053486)
+setManifestid(227304, "834155887617371415", 107057630)
 
 -- DLC's (with depot keys)
 -- Euro Truck Simulator 2 - Going East! (AppID: 227310)
 addappid(227310)
 addappid(227310, 1, "b06666dc044784f4331b6572132630cb7b36fd1c83688aa215f808fc8460729d")
-setManifestid(227310, "5880363950457241649", 37789602)
+setManifestid(227310, "7998966079609486421", 37791140)
 -- Euro Truck Simulator 2 - Halloween Paint Jobs Pack (AppID: 258460)
 addappid(258460)
 addappid(258460, 1, "a3f49706464f613855bdb86f4aa8ad16370390f18c059398495dbd76e22bae01")
@@ -262,7 +262,7 @@ setManifestid(909640, "1919550032765055462", 0)
 -- Euro Truck Simulator 2 - Beyond the Baltic Sea (AppID: 925580)
 addappid(925580)
 addappid(925580, 1, "aec0bb982622c145e437172016f65040db8b8d005d7de9ddff758f292f035ab1")
-setManifestid(925580, "618680013116702981", 102921285)
+setManifestid(925580, "6170605659205660714", 102921547)
 -- Euro Truck Simulator 2 - Space Paint Jobs Pack (AppID: 925650)
 addappid(925650)
 addappid(925650, 1, "754a3ef9021990cf28a11008df0387fb87e9b799e83ad10090edc69bf0bbc276")
@@ -419,6 +419,10 @@ setManifestid(3335300, "803517503413443551", 0)
 addappid(3354860)
 addappid(3354860, 1, "7ab4299e2db99a337ec4ecbda76dcd0530766e8c3790e8a0419e98f8847fa833")
 setManifestid(3354860, "3319782812285912884", 0)
+-- Euro Truck Simulator 2 - Iceland (AppID: 3796990)
+addappid(3796990)
+addappid(3796990, 1, "82353f3f70ff290b2ae7565529c96483c68e360cadb82424d9b418acd5817d2e")
+setManifestid(3796990, "6189916741994581464", 204544997)
 -- Euro Truck Simulator 2 - KRONE Agriculture Equipment (AppID: 3872920)
 addappid(3872920)
 addappid(3872920, 1, "b8e6dce270a9c23586386a0b33b8815e9ca3dfaf0c0061353832ef483047ea1e")
@@ -440,4 +444,4 @@ addappid(4400940)
 addappid(4400940, 1, "614cc960cdc89bcf28d665df7004922e4a3289ed8344485e5086634038925fda")
 setManifestid(4400940, "1971038981576363293", 0)
 
--- Missing Depots (We don't have the keys yet lol): 1536500, 2386540, 3796990, 3809270, 3851260, 4400930, 5237410, 5457490
+-- Missing Depots (We don't have the keys yet lol): 1536500, 2386540, 3809270, 3851260, 4400930, 5237410, 5457490
