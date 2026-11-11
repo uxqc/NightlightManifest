@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 252490 - Rust
--- Generated 2026-11-08 19:17:39 UTC
+-- Generated 2026-11-11 20:43:36 UTC
 -- # Depots (Total/DLC/Shared): 7/2/2
 
 -- Main AppID
