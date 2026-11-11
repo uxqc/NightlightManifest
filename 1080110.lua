@@ -1,0 +1,57 @@
+-- Generated with Luie @ https://lua.tools/
+-- 1080110 - F1 2020
+-- Generated 2026-11-11 16:11:29 UTC
+-- # Depots (Total/DLC/Shared): 19/0/2
+
+-- Main AppID
+addappid(1080110, 1, "a79ee8d130fbfa98428f3dbeb86abd064fbed44ca0becd3f12ef3a00bdf3e9b6")
+
+-- Main Depots
+addappid(1080111, 1, "9657204dff69be02f322893bb9708daa07ac03bdb8053860424538b97d144abb") -- (windows)
+setManifestid(1080111, "6931826516821013225", 15225419176)
+addappid(1080112, 1, "8c3d72830e54ebbfd609105e226f0772ee773ea24df5178c37545978b306bef1") -- (windows)
+setManifestid(1080112, "3729427901644243353", 27754200213)
+addappid(1080113, 1, "69a8b24dd1adf9498658a38d3119ddf64c1c32ad6745f57da89a07d9d62155ce") -- (windows)
+setManifestid(1080113, "5141449228947989066", 815015406)
+addappid(1080114, 1, "1048a786b5e9fff43f68fd634e9d10fedcc763e938865937698b0b6e7269f14b") -- German (windows)
+setManifestid(1080114, "3936040559570878399", 732126041)
+addappid(1080115, 1, "48ba19528e24a534d145d02eb73067439c05f06f1bdd9d559a79b60a3c7222ca") -- Spanish (windows)
+setManifestid(1080115, "7948575374514488425", 844700081)
+addappid(1080116, 1, "cf7feaea03a4a125b69924d76d95b80a924c87269032bf799f9ecd840e7ec6ca") -- French (windows)
+setManifestid(1080116, "5383911517375912042", 694462996)
+addappid(1080117, 1, "af726489de3c39e093c1b30d9c63d55310f3b3fd3842ecf368ca945f9fc1f6ff") -- Italian (windows)
+setManifestid(1080117, "5117425651801417975", 816011994)
+addappid(1080118, 1, "abd4a2e6d13c15ce0623bbdf2bc8695deb434f9ff2204bd3266a3f7c23fad489") -- Japanese (windows)
+setManifestid(1080118, "6299419600565380684", 687122487)
+addappid(1080119, 1, "3e36a8191fe1d01164c6850786656dad30e65313d7d704a82b564d2fce27683f") -- Brazilian (windows)
+setManifestid(1080119, "6594177292908609842", 723518559)
+addappid(1084200, 1, "d156c41828bbfe41cdffa05d830f722eca9e94af80f5f278eac94e34d17ec535") -- Polish (windows)
+setManifestid(1084200, "6878223198953821017", 682396225)
+addappid(1084201, 1, "54b6dbe01468c00e2caa3e4a2a97eded0b4ce162f45186031d898fb49f1d0df5") -- Russian (windows)
+setManifestid(1084201, "336777454968266582", 687319617)
+addappid(1084202, 1, "22eec7cf58eca9f63000fb8828ae66110cdae50e64ad09934bbc47c684f0778b") -- Dutch (windows)
+setManifestid(1084202, "4661425652255180788", 377707490)
+addappid(1084203, 1, "a54e39d656c4e4d1f2f531cc8e1bf115de0ad793f9e478dd4e26afa9d879d7ea") -- (windows)
+setManifestid(1084203, "6659380795519850802", 80614400)
+addappid(1084206, 1, "3d2cb33cd8b4263409aa8e2176810fe5129de638d403c799fd22ecac91eb3d8e") -- Schinese (windows)
+setManifestid(1084206, "6353325618595844717", 677759553)
+
+-- DLC's (no depot keys required)
+addappid(1209530) -- DLC 1209530
+addappid(1209531) -- DLC 1209531
+addappid(1209532) -- DLC 1209532
+addappid(1308720) -- DLC 1308720
+addtoken(1308720, "11790602178634598729")
+addappid(1308721) -- DLC 1308721
+addtoken(1308721, "4641662751061432796")
+addappid(1344190) -- F1 2020: 2000 PITCOIN
+addappid(1344191) -- F1 2020: 5000 PITCOIN
+addappid(1344192) -- F1 2020: 11000 PITCOIN
+addappid(1344193) -- F1 2020: 24000 PITCOIN
+addappid(1344194) -- F1 2020: 50000 PITCOIN
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 1084204, 1084205, 1084207
