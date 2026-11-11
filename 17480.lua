@@ -1,0 +1,38 @@
+-- Generated with Luie @ https://lua.tools/
+-- 17480 - Command & Conquer™ Red Alert™ 3
+-- Generated 2026-11-11 11:32:32 UTC
+-- # Depots (Total/DLC/Shared): 14/0/2
+
+-- Main AppID
+addappid(17480, 1, "de8be15c66d36a88392a76c9067536d470d61a61d464edbb0cc51860e7a5d6a9")
+
+-- Main Depots
+addappid(17481, 1, "b13a658a73dc214dd4c12fd62a81428ab5e925cc66549b1cc224dd0a393c9ae8")
+setManifestid(17481, "7399110944044859959", 9499091606)
+addappid(17482, 1, "4ab4dc0bbb1fc053e3e48fa3d1d4e48806771853f5cd43631d3da56cc0c0bf47") -- Spanish
+setManifestid(17482, "5337273780141890863", 2278382511)
+addappid(17483, 1, "e285f53920127758596e725c4df1c09686e7681e4661117ebce4dfd9afccc7c0") -- Koreana
+setManifestid(17483, "7382175596500191863", 57930078)
+addappid(17484, 1, "cf2b01f2a74ae4e5e8f711580a5ed6d19935d5b7214fbb9c891d9f758c19f563") -- Czech
+setManifestid(17484, "8224907084858076022", 298951246)
+addappid(17485, 1, "de1605528ba55a7b330b589a250717f5b9dfcba21cb50afdb7c763c729c756f2") -- French
+setManifestid(17485, "577067934581235304", 2323859327)
+addappid(17486, 1, "cd91de02d5457477a2c9254d4ebfa0c1b8853576b15c309bc92c79d7dc50f14c") -- German
+setManifestid(17486, "1881178721620356443", 2336743345)
+addappid(17487, 1, "46311b08e8fef5e899ea043424faa884a9f8ffb7d8986ce457774baf12773b82") -- Hungarian
+setManifestid(17487, "263977213759137039", 298831544)
+addappid(17488, 1, "bdd4807f56d6525ddeba3570d44a23d511d80f880ec912db1ddacfb2895f3826") -- Italian
+setManifestid(17488, "8442844672739422442", 2237953192)
+addappid(17489, 1, "f8c00b3c11213cc7e74f83bde645ba16e774a87c16f52d365fb9b60883eb7f3a") -- Tchinese
+setManifestid(17489, "544620771775941168", 64242781)
+addappid(17490, 1, "af3865859ef3abda7e34c8c859bf5bbf3e3eda22b20bdca9cf2412826633d230") -- Polish
+setManifestid(17490, "6887882775092064817", 298919226)
+addappid(17491, 1, "30b51adab9bd5b4367a3afc73392db52a8d6912b7ce21e3004462507612a88cd") -- Russian
+setManifestid(17491, "5501621558289431925", 2316873238)
+addappid(3314380, 1, "130ae012b6a41a1ef16c03e0ba1e14ad814fe83b5ebccca5150e122ac50a18cf") -- Thai
+setManifestid(3314380, "2812775176019743365", 57622081)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 228981
