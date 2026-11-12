@@ -1,0 +1,37 @@
+-- Generated with Luie @ https://lua.tools/
+-- 597220 - West of Loathing
+-- Generated 2026-11-12 16:37:21 UTC
+-- # Depots (Total/DLC/Shared): 12/4/0
+
+-- Main AppID
+addappid(597220, 1, "b86361bbf5cbc1472563951f59e059d46731b63ed1b8afb980cd73a4994409c5")
+
+-- Main Depots
+addappid(597221, 1, "2264113a37c8bd27c99af534dfae7f4babd895cb121b777403186ac9b9278730") -- (macos)
+setManifestid(597221, "5232330165630484566", 280103044)
+addappid(597222, 1, "506ff12497f2ebd39adeec76138498a65406a9c036a551b7ff1cf958ddddfaeb") -- (windows, 64-bit)
+setManifestid(597222, "5041556463779027538", 262209840)
+addappid(597223, 1, "6917a88072f7b060a0ab9a27470ccc0bd7284c0ba258c241cb0622a9d8271588") -- (windows, 64-bit)
+setManifestid(597223, "819786439536560923", 290998155)
+addappid(597224, 1, "39186d82d9b074759644a93d4667a2840a51d907ee49ba239ed0416ca550272c") -- (macos)
+setManifestid(597224, "6607129469714701277", 312115350)
+addappid(597225, 1, "f1d6a4edff94b34ba8aa602ef8483b7a7aaa2502b600c6fa16bdb58ea54bc82b") -- (linux)
+setManifestid(597225, "644363695892823984", 271044033)
+addappid(597226, 1, "33b07e9c6bd1260d3ed2f77d6c6a30fedf7fae0a25da52a7176504cf9240426d") -- (windows, 32-bit)
+setManifestid(597226, "6859928952985109771", 285225867)
+addappid(597227, 1, "5491cbff9056a6dbeefd6d0b7f72e8046c7e2c49433d4ac77f47bd2f7324ec17") -- (windows, 32-bit)
+setManifestid(597227, "2723733996375391440", 254529680)
+addappid(597228, 1, "cc718b1e60fcbd0135a85e61ec1c5738c56d8839f33fdf4e9ebf711d592a40ff") -- (linux)
+setManifestid(597228, "7093391889548612916", 271044033)
+
+-- DLC's (with depot keys)
+-- West of Loathing: Reckonin' at Gun Manor (AppID: 954060)
+addappid(954060)
+addappid(954060, 1, "f77f7f1e2462f7ad1968eb8ef73fb217867af2b3c4c1734ca0751424e495383f") -- (macos)
+setManifestid(954060, "4704820467427850972", 57694279)
+addappid(954061, 1, "aad3efe7854e56df3cf7196e550cf0f28b36245be2cc024a5be93d3f93a088c0") -- (windows)
+setManifestid(954061, "792363520525912735", 57694279)
+addappid(954062, 1, "464d04ce60875432f2a2e9d68393fe533de787087193b7742faf90164cdd1e87") -- (linux)
+setManifestid(954062, "7646565991543430813", 57694280)
+
+-- Missing Depots (We don't have the keys yet lol): 686420
