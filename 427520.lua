@@ -1,0 +1,43 @@
+-- Generated with Luie @ https://lua.tools/
+-- 427520 - Factorio
+-- Generated 2026-11-12 21:46:27 UTC
+-- # Depots (Total/DLC/Shared): 13/8/0
+
+-- Main AppID
+addappid(427520, 1, "31ecbbd55ffe883e0c7014eb69a61e3fd85b18ce745b2d50d0b87825c74578b4")
+
+-- Main Depots
+addappid(427521, 1, "313aabe725a369c7112e56db4fb78556f9fe5d8a1e599833000c4b3a29ceb0f4") -- (windows, 64-bit)
+setManifestid(427521, "422768584032543502", 2375489309)
+addappid(427522, 1, "e595c19750b6343a6790b2d19c9edd29f5f910dbd5d5d98d42944bb3474342f5") -- (windows, 32-bit)
+setManifestid(427522, "8127115610667035850", 488882534)
+addappid(427523, 1, "da6be217fa0d138b92f96b6f6a825fe3d0d271bfe7125601eaa4f66c818ceecb") -- (linux, 64-bit)
+setManifestid(427523, "4835038178438493428", 2387398965)
+addappid(427524, 1, "3b9ae6dba8cff0e5061fa6c28a67f22b7750064913db9499570a9e8edaa29aac") -- (linux, 32-bit)
+setManifestid(427524, "2006867560965339051", 362494820)
+addappid(427525, 1, "4cf6a64823e9240f302d20a5428fdade384b312b0f55c87aaebd14bf62beb353") -- (macos)
+setManifestid(427525, "7995304108941275587", 2729633478)
+
+-- DLC's (with depot keys)
+-- Factorio - Soundtrack (AppID: 436090)
+addappid(436090)
+addappid(436090, 1, "23238f54eaeb9a42690c8335c61a6b00ea7d1cb65421b6f7e24f3c7134888de4")
+setManifestid(436090, "1380443608017988433", 116528529)
+addappid(436091, 1, "72edbb2c0d316fd9b5f39aa3d480ecf62bddadd611a728a5ccd95b66a5200ba5")
+setManifestid(436091, "1142415089460811828", 344207853)
+-- Factorio: Space Age (AppID: 645390)
+addappid(645390)
+addappid(645391, 1, "e1e840cb840b8d382a84e6cc0443393d76f99ab19ee8afd3a61a0b414fc5ac9f") -- (linux, 64-bit)
+setManifestid(645391, "7593083902538539794", 5368970239)
+addappid(645392, 1, "a7b9074d3a2634bc9163847fe1ae9cfb0ad55a286a6c32b67289f2a07e2e654f") -- (macos)
+setManifestid(645392, "4722344636429736299", 5712379521)
+addappid(645393, 1, "df5808d5e8ae3a9cce0454d6f6968c6f200e4d28a4cd2a4ba4f8be1426ad7ff4") -- (windows, 64-bit)
+setManifestid(645393, "7435081102448144579", 5357085963)
+-- Factorio: Space Age - Soundtrack (AppID: 3311770)
+addappid(3311770)
+addappid(3311771, 1, "0565f14b3a4c063e57b257b849a52b2778d79106d0a3dacc462dabf6dc7bf0e7")
+setManifestid(3311771, "7297438335085052778", 1517422971)
+addappid(3311772, 1, "a990370a5957f13aa9ffa191a2f9fdb2bce9723697971288d0cdb65f2779cfa2")
+setManifestid(3311772, "9105904954403112113", 2908165645)
+
+-- Missing Depots (We don't have the keys yet lol): 645394
