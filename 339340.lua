@@ -1,0 +1,66 @@
+-- Generated with Luie @ https://lua.tools/
+-- 339340 - Resident Evil 0
+-- Generated 2026-11-12 14:00:10 UTC
+-- # Depots (Total/DLC/Shared): 16/12/1
+
+-- Main AppID
+addappid(339340, 1, "1669371e331fed9434b70a14b965fafb1636c626d58b681bc85d4c48e5cff47d")
+
+-- Main Depots
+addappid(339341, 1, "e9299de2069122e5731bd097c02d35efe353b7dc40f59ca9ab568a382f3753c9")
+setManifestid(339341, "8625797949261159340", 12220257829)
+addappid(339342, 1, "5152d943dbe7913f463d7f9deab9da7bc6fcd382c8cb835b83182e1b7ef6ba46")
+setManifestid(339342, "556683354567652030", 87773310)
+addappid(339343, 1, "b456cf099ef9aad38ad0d36862366f12cb1543773c88d783a5da7a0e545a4256")
+setManifestid(339343, "3074649547682433474", 509329146)
+
+-- DLC's (with depot keys)
+-- Resident Evil 0 Costume Pack 1 (AppID: 381710)
+addappid(381710)
+addappid(381710, 1, "ad086aff51fa29ecb7fd9e505054a2eea1a4d7ec52ab5e375278abeb78a7e16e")
+setManifestid(381710, "64352183134533440", 13649312)
+-- Resident Evil 0 Costume Pack 2 (AppID: 381711)
+addappid(381711)
+addappid(381711, 1, "8983531cfd5d11e8574db04b0e6b0b9fff62a72b1c96d3a49c0eec8d6cb3229b")
+setManifestid(381711, "2539166499240446273", 16958352)
+-- Resident Evil 0 Costume Pack 3 (AppID: 381712)
+addappid(381712)
+addappid(381712, 1, "75c7d7d7a3b9d267b81318fb7cfd61f1cd78d4b757e70f71efecde5fff153bcf")
+setManifestid(381712, "8981484900505289106", 25558174)
+-- Resident Evil 0 Costume Pack 4 (AppID: 381713)
+addappid(381713)
+addappid(381713, 1, "0af8b8434f59751b16e7c4980fc31ddde20b0741487216fe779580ee28d05215")
+setManifestid(381713, "6723286139049539008", 40109188)
+-- t-シャツ　『週刊少年チャンピオン』コラボ (AppID: 381715)
+addappid(381715)
+addappid(381715, 1, "92073fe5f9583ca8f8e27e4d617d3ddc7c176b70414bc280d6deb6d35b9340c8")
+setManifestid(381715, "2879115187161328365", 15195656)
+-- Resident Evil 0 Fan Design T-shirt Pack (AppID: 381716)
+addappid(381716)
+addappid(381716, 1, "6af532d95f2f01b2de58c0a23d03e6c3b8f875653e8ccbc33babf6befe8e47b4")
+setManifestid(381716, "796528297318074013", 60730381)
+-- t-シャツ　『GEO』コラボ (AppID: 381717)
+addappid(381717)
+addappid(381717, 1, "163ac07f7433ca64c56ce7d4d5f6fa0d65c0862254216b4d9a204ecbdc3db355")
+setManifestid(381717, "8576500298965902497", 15190232)
+-- t-シャツ　『Joshin』コラボ (AppID: 401340)
+addappid(401340)
+addappid(401340, 1, "8e6a4bf9ab74870f1642a94165c0895fa1411c8e95d72b64709ea95bfef3bbf9")
+setManifestid(401340, "9028079802819383357", 15192066)
+-- t-シャツ　『WonderGOO』コラボ (AppID: 401341)
+addappid(401341)
+addappid(401341, 1, "fba6c3da84f60705a9fe3e0fecb0b7e74a4daef175c06b245e83fade94bc3c31")
+setManifestid(401341, "7727255681251125193", 15134092)
+-- Resident Evil 0 "Shadow of Fear" Rebecca T-shirt (AppID: 406140)
+addappid(406140)
+addappid(406140, 1, "c898f781e3b9add2cec64f7b3f0b7d4ca3f0860aa0693fca4284b8e172cd9d1d")
+setManifestid(406140, "5500713755257879385", 15181771)
+-- t-シャツ　『亜人』コラボ (AppID: 430390)
+addappid(430390)
+addappid(430390, 1, "2b2af9d49810ca216a15e3163cc022d8aa1c4ce0e5c1117226180fc04113ae1b")
+setManifestid(430390, "6770061075741675048", 15121818)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 381714
