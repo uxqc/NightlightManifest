@@ -1,0 +1,15 @@
+-- Generated with Luie @ https://lua.tools/
+-- 2564960 - I'm on Observation Duty 8
+-- Generated 2026-11-14 14:15:20 UTC
+-- # Depots (Total/DLC/Shared): 3/0/0
+
+-- Main AppID
+addappid(2564960, 1, "1be956e54b0a445e018393b5a1c1a278ff6006a4d998eb74f09a6ce8b8724371")
+
+-- Main Depots
+addappid(2564961, 1, "8619ed1f833ac61628161a34d05b81a83246600139a636ce027f3b5144b68543") -- (windows)
+setManifestid(2564961, "3706041139238830408", 1869567385)
+addappid(2564962, 1, "1d397714dfd43cb8edea9de82609c1f2d3e05b92942977e0ddcbe18842622cd0") -- (macos)
+setManifestid(2564962, "8018321201144249568", 1924842360)
+addappid(2564963, 1, "9c90b278af36477053b5f5f0bd354090b08d9f234f47c21704c8771771f8c580") -- (linux)
+setManifestid(2564963, "2049596136242184068", 2134045872)
