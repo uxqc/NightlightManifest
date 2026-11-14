@@ -1,0 +1,21 @@
+-- Generated with Luie @ https://lua.tools/
+-- 13580 - Tom Clancy's Splinter Cell: Double Agent
+-- Generated 2026-11-14 18:26:35 UTC
+-- # Depots (Total/DLC/Shared): 6/0/0
+
+-- Main AppID
+addappid(13580, 1, "276efe6166201221754ee2a5dc9f30e4e90dd889b2034e77e827ecb63098ee8f")
+
+-- Main Depots
+addappid(13581, 1, "8feafa3afc1b5e9a4d7eb89eb1db71167ef6e8ff7184b12cc49f8a83744dfc5d")
+setManifestid(13581, "8293679105712217747", 11494751776)
+addappid(13582, 1, "b203551976ec29581f10288ef4c88af5b48ae9a4ff47d2ec25d742ac76464289") -- English
+setManifestid(13582, "4829719279493911988", 1900005)
+addappid(13583, 1, "cd4eabea43cb192f8d9b20581914cc2d40afd064776d5998ea756216fb519584") -- French
+setManifestid(13583, "6334456232055310676", 1924359)
+addappid(13584, 1, "bdc78fd329172a091099ce393e07dcc48e9a1074b5208cd70f2adf81668d0895") -- German
+setManifestid(13584, "7178965377781791463", 1923560)
+addappid(13585, 1, "eb4fa2b59d290e1878b4b214cf28fbdb27f41eb6aa59098e07599568e92aec47") -- Italian
+setManifestid(13585, "461941652989332912", 1978257)
+addappid(13586, 1, "b45a78b55a7296340d25ed04f0cbf88c00017f2085d67e976d28378de7ae4822") -- Spanish
+setManifestid(13586, "2347204239237362127", 1925127)
