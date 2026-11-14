@@ -1,0 +1,35 @@
+-- Generated with Luie @ https://lua.tools/
+-- 3787390 - Love or Lust Beach Stories
+-- Generated 2026-11-13 23:52:20 UTC
+-- # Depots (Total/DLC/Shared): 7/4/2
+
+-- Main AppID
+addappid(3787390)
+
+-- Main Depots
+addappid(3787391, 1, "4452ac30a0f14688007d3a29adad5ce97a716bb7aeda1e95fe2999f17b0a7d6f")
+setManifestid(3787391, "5639084560904908809", 8698939407)
+
+-- DLC's (with depot keys)
+-- Love or Lust Beach Stories: Birthday Suit Pack (AppID: 4973410)
+addappid(4973410)
+addappid(4973410, 1, "21c346063c1be9aabbc54e818d71755f1e110cfe16802c52d17a0e8583259e28") -- (windows, 64-bit)
+setManifestid(4973410, "788122739387152082", 38)
+-- Love or Lust Beach Stories: Cosplay Chaos (AppID: 4973440)
+addappid(4973440)
+addappid(4973440, 1, "19427affe90bb3a9d6dedb30a683f4095cefea51617bda6e559a1a58a5fb02a5")
+setManifestid(4973440, "6036803234924221173", 38)
+-- Love or Lust Beach Stories: Artbook (AppID: 5485310)
+addappid(5485310)
+addappid(5485311, 1, "f39d061c3a646837dea557f0989a9dff4322c70590a4b63f910073a9fe134ccf")
+setManifestid(5485311, "3714342907146095619", 56194405)
+-- Love or Lust Beach Stories: Wallpapers Pack (AppID: 5485320)
+addappid(5485320)
+addappid(5485321, 1, "2a4784ec99739b7a2b07894a7ccd9cd945cd87116e6dd22fd30b406fb90d38a3")
+setManifestid(5485321, "2215761936662859612", 175064640)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+
+-- Token-locked DLCs (couldn't read depots): 4626260
