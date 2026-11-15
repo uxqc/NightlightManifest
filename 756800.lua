@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 756800 - Contraband Police
--- Generated 2026-11-08 22:08:26 UTC
+-- Generated 2026-11-15 08:57:32 UTC
 -- # Depots (Total/DLC/Shared): 1/0/0
 
 -- Main AppID
