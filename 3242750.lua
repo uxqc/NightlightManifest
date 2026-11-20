@@ -1,0 +1,15 @@
+-- Generated with Luie @ https://lua.tools/
+-- 3242750 - Level Devil
+-- Generated 2026-11-20 01:41:28 UTC
+-- # Depots (Total/DLC/Shared): 3/0/0
+
+-- Main AppID
+addappid(3242750, 1, "42777afaa265f212b63786153a52478f2a98d0e56669580b58165fab143a9660")
+
+-- Main Depots
+addappid(3242751, 1, "20715373400230b7184afdfb64c33c5a97093edd019c92ada23c16db734de7b3") -- (windows)
+setManifestid(3242751, "3730869282149592116", 72316294)
+addappid(3242752, 1, "26969640f9318100f56144e2ae154da69a8e8574f6f4bd8d1229d76c8d1a6645") -- (macos)
+setManifestid(3242752, "8987218176190015393", 93074848)
+addappid(3242753, 1, "ab00075db80de6b14fbc3f51181ba6d439f5d702785696af7bce03ef489bc04e") -- (linux)
+setManifestid(3242753, "2186094629391185304", 14749394)
