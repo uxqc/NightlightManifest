@@ -1,0 +1,66 @@
+-- Generated with Luie @ https://lua.tools/
+-- 42960 - Victoria II
+-- Generated 2026-11-20 18:55:20 UTC
+-- # Depots (Total/DLC/Shared): 16/11/2
+
+-- Main AppID
+addappid(42960)
+
+-- Main Depots
+addappid(42961, 1, "57c3c0cee68b04370808e6f4f14ce94e110cbfc457bbf7e6c498cf395c10a9ae") -- (windows)
+setManifestid(42961, "1909759566002417877", 1039129132)
+addappid(42962, 1, "d8b22e8301eee74309301646cf438d49d5109d6fbe91e23cf96c06258a9592f0") -- French (windows)
+setManifestid(42962, "6614064855365379358", 683)
+addappid(42963, 1, "282ef3c656cbb53b27427de62895f7354a1f0c09627ed05257003a41862833fe") -- German (windows)
+setManifestid(42963, "437643416717690894", 683)
+
+-- DLC's (with depot keys)
+-- Victoria II Interwar Sprite Pack (AppID: 42964)
+addappid(42964)
+addappid(42964, 1, "cd202ad14f44101bad450bdd404737fec0a542532f67acf42c4c7e83419c0b8d") -- (windows)
+setManifestid(42964, "7479657694269151046", 3727646)
+-- Victoria II: Interwar Artillery Sprite Pack (AppID: 42965)
+addappid(42965)
+addappid(42965, 1, "400f196a4638105fa2ad17ba91996a7c51dd40c4f4e5a3a623abb91f5a9f670e") -- (windows)
+setManifestid(42965, "9166542754481913463", 3965448)
+-- Victoria II: Interwar Planes Sprite Pack (AppID: 42966)
+addappid(42966)
+addappid(42966, 1, "fa0f163117fdab9bd475d4eacad4c46bee70962f8533409f9adfe7d0528b6b91") -- (windows)
+setManifestid(42966, "3738290336951758781", 3099122)
+-- Victoria II: Old Victoria DLC (AppID: 42967)
+addappid(42967)
+addappid(42967, 1, "6ece673ce6b0a32fbd9768fd0f1b11103f8f7255edaa274a50538589f459f765") -- (windows)
+setManifestid(42967, "575643009873984135", 103298141)
+-- Victoria II - A House Divided (AppID: 42968)
+addappid(42968)
+addappid(42968, 1, "8b5c0acefd0c41b2f0a7e38fbc5147907f4b7ec51634a6397cc0f323e563c9a2") -- (windows)
+setManifestid(42968, "9034953149494409632", 542061693)
+-- Victoria II: American Civil War Spritepack (AppID: 215000)
+addappid(215000)
+addappid(215000, 1, "71025386d2333d7d9e3fc2e81af9bb5bd92451c8dcfb0dac8b3f0cba23098880") -- (windows)
+setManifestid(215000, "8818419819605222129", 4731634)
+-- Victoria II: A Heart of Darkness (AppID: 215001)
+addappid(215001)
+addappid(215001, 1, "1c348f225b0b5bed924fc6292dde7bf1aaac7b56cbc2ca46dfe5498bb529dc27") -- (windows)
+setManifestid(215001, "5476719493072834078", 1117340404)
+-- Victoria II: Songs of the Civil War (AppID: 215002)
+addappid(215002)
+addappid(215002, 1, "03e83ecd68b518c989b993909be74989cbd0059b62794d889c47cfd7285a8477") -- (windows)
+setManifestid(215002, "6822750999316264099", 12859235)
+-- Victoria II: German Unit Pack (AppID: 215003)
+addappid(215003)
+addappid(215003, 1, "202052f29c12ec6345fd5ee10862e5af25c4e21d13924d5c670419449508a1c7") -- (windows)
+setManifestid(215003, "247135711695354332", 4983788)
+-- Victoria II: Interwar Engineer Unit Pack (AppID: 215004)
+addappid(215004)
+addappid(215004, 1, "aefdfb142987c408557edc7385228427b487ee2fc46f688891bf6deafe26261d") -- (windows)
+setManifestid(215004, "833481973264279536", 3752383)
+-- Victoria II: Interwar Cavalry Unit Pack (AppID: 215005)
+addappid(215005)
+addappid(215005, 1, "6cd978fe1c55a80b78fc3e343ab3b4aa4de7cdbb61b6ce05a3ba55e3295ade25")
+setManifestid(215005, "7136596945419614389", 3330367)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 228981
