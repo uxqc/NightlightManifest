@@ -1,0 +1,69 @@
+-- Generated with Luie @ https://lua.tools/
+-- 996470 - eFootball PES 2020
+-- Generated 2026-11-20 06:24:47 UTC
+-- # Depots (Total/DLC/Shared): 21/1/3
+
+-- Main AppID
+addappid(996470, 1, "6c60ce61fa1321a4fbc04002c4904f3babeacc33263f4b1bd5c2996db09dbfef")
+
+-- Main Depots
+addappid(996471, 1, "8bd06fedc647a60cf4fe09ab9f2679ee07cfbc01815b3a478cc4f6c6b2c1182d") -- (windows, 64-bit)
+setManifestid(996471, "895715855119357385", 37179286324)
+addappid(996472, 1, "9985ac27f79b67af9496bc59596d607096e1454a1ae37029caf01abcbaedaf4c") -- English (windows, 64-bit)
+setManifestid(996472, "8703421149693757213", 1888954756)
+addappid(996473, 1, "1351fdb41e920b474febb4f46dc40e0e67d4d0bd9c41ce5b847cf529c402edd2") -- Swedish (windows, 64-bit)
+setManifestid(996473, "4922482425282017228", 859485539)
+addappid(996474, 1, "322c15845ac600cd37cde2cc71b968af364f57ae2826a5aa960376cb2308c861") -- French (windows, 64-bit)
+setManifestid(996474, "5575480382262294336", 667574433)
+addappid(996475, 1, "9f16067788871a2e6f07378c9e8a425837253925fba6beba06690820befd0729") -- German (windows, 64-bit)
+setManifestid(996475, "2848335507063277985", 800968084)
+addappid(996476, 1, "e688b6a634f5a5848c0608ec85972f817f7d0ac08f41254d8b47b28269855fba") -- Italian (windows, 64-bit)
+setManifestid(996476, "6162089503234106316", 735872581)
+addappid(996477, 1, "845627eb6f8617d1b7b55c7c309d10020dee264b75b8e85c6b1d908f3d8acb7a") -- Dutch (windows, 64-bit)
+setManifestid(996477, "8074594936635256991", 859511567)
+addappid(996478, 1, "e22ce4a19c7026b73837fcecb9e8365fddc90e21b0e0c70f2f270c20b5d36c9c") -- Turkish (windows, 64-bit)
+setManifestid(996478, "9014045002928544004", 859517077)
+addappid(996479, 1, "deb45721704ff9d9e2df5b486fd8de6a77af98233854e50e2e2d422e351f02b5") -- Russian (windows, 64-bit)
+setManifestid(996479, "8962959025131682567", 859608569)
+addappid(1038360, 1, "5275f9a3135f857defc3a4c802f6d5ef7873efee3e7c7f937ead05c4b60c282b") -- Spanish (windows, 64-bit)
+setManifestid(1038360, "8864055236620680273", 2744421754)
+addappid(1038361, 1, "ac1dffadbe2b88266bd7de68b85f97fab380957812a41b773322f1049a3947fc") -- Portuguese (windows, 64-bit)
+setManifestid(1038361, "9223314533445645973", 641786970)
+addappid(1038362, 1, "0d3bda245de3af2ece5a1d6a102203ae7ab3af9c4de527c4a33ec3c659c00cbf") -- Arabic (windows, 64-bit)
+setManifestid(1038362, "2746051027237442752", 365153338)
+addappid(1038363, 1, "d9e40e24722933fe8ff86a3f89e2ed3a3a64eedb1f5027fca4fb222e3a8772a5") -- Greek (windows, 64-bit)
+setManifestid(1038363, "383951293544406838", 618156570)
+addappid(1038364, 1, "9fa454f3c530fe421fe229637703ad24fc5c28969175d9f4b12221531dadea46") -- Brazilian (windows, 64-bit)
+setManifestid(1038364, "8965028896690635304", 1705774268)
+addappid(1038365, 1, "62aca5e90845b2887ff6e0cc8a00306d5fd77f26b6a988807444f2120eaf7767") -- Schinese (windows, 64-bit)
+setManifestid(1038365, "231452714941444766", 1881941515)
+addappid(1038366, 1, "ee2b174b89a03345b6110d811eaaacd99acee28cd411794bf867b5207ebdb81f") -- Tchinese (windows, 64-bit)
+setManifestid(1038366, "4801478147161465778", 1878221261)
+addappid(1038367, 1, "be2c7239e5e13f1efec4bd157b1c10284d5a57045351a64aa95e6cbc81d4f3ee") -- Koreana (windows, 64-bit)
+setManifestid(1038367, "6801592155669959641", 2092049824)
+
+-- DLC's (no depot keys required)
+addappid(1096840) -- DLC 1096840
+addtoken(1096840, "12063102467785144312")
+addappid(1096850) -- DLC 1096850
+addtoken(1096850, "48487571369947192")
+addappid(1096860) -- DLC 1096860
+addtoken(1096860, "715139550026473442")
+addappid(1178600) -- DLC 1178600
+addappid(1178610) -- DLC 1178610
+addappid(1178620) -- DLC 1178620
+addappid(1178630) -- DLC 1178630
+addappid(1178640) -- DLC 1178640
+addappid(1178660) -- DLC 1178660
+addappid(1178670) -- DLC 1178670
+
+-- DLC's (with depot keys)
+-- DLC 1196930 (AppID: 1196930)
+addappid(1196930)
+addappid(1038368, 1, "ad23ab6392e6f237d0701d643dd96ca4e52c7d6e2eaf8405a5ec139c01ae162b") -- (windows, 64-bit)
+setManifestid(1038368, "682484966497724988", 417079792)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- (windows)
