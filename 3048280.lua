@@ -1,0 +1,11 @@
+-- Generated with Luie @ https://lua.tools/
+-- 3048280 - Realistic Ragdoll Sandbox
+-- Generated 2026-11-20 11:18:02 UTC
+-- # Depots (Total/DLC/Shared): 1/0/0
+
+-- Main AppID
+addappid(3048280, 1, "d6d36b284b70808d6038ce29f723ed1e4b1af61a8c1a292f9543d4e43e1c8b3c")
+
+-- Main Depots
+addappid(3048281, 1, "4c6dfc73dd4bc4e4bea567490a70390e025d43a85b8b98c910ae5e2e3b8ca060") -- (windows)
+setManifestid(3048281, "2494150905835922556", 3842617921)
