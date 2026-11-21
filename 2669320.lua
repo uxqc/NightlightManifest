@@ -1,0 +1,75 @@
+-- Generated with Luie @ https://lua.tools/
+-- 2669320 - EA SPORTS FC 25
+-- Generated 2026-11-21 06:44:30 UTC
+-- # Depots (Total/DLC/Shared): 25/0/3
+
+-- Main AppID
+addappid(2669320, 1, "ecf0c5e2ea751c406391cce31f37731f58240823183884a39e185cfc465784de")
+
+-- Main Depots
+addappid(2669321, 1, "76cc370335c7af8b640b995822f72e2a526e593b8b0e415ffee6b14269c110f2")
+setManifestid(2669321, "481161766096858153", 52772591322)
+addappid(2669322, 1, "dc956f808120a3be1d76100275434df05c8d8cfc823a248be5a43eebec44f640") -- English
+setManifestid(2669322, "6262367819949908011", 4062969729)
+addappid(2669323, 1, "120647853dff26407d7fc2abde8c0d0a0ac57092f50fec65af5dc93c740412b9") -- German
+setManifestid(2669323, "7111451473676100595", 5429623737)
+addappid(2669324, 1, "0ba16b84bb418aceaeeba17a8040aa0784fb0babb34201b7b474f006e2fcfa1d") -- French
+setManifestid(2669324, "1290241065960430622", 5146057493)
+addappid(2669325, 1, "fede776f29a56961ee68ef6293bfaf8aab8aa9a2965b2779853977c78e4e9515") -- Italian
+setManifestid(2669325, "5752336469737282639", 5538153240)
+addappid(2669326, 1, "99c851e993373cec85cbde94fc6b81527d64cb7425ec494292ed271bb6698544") -- Koreana
+setManifestid(2669326, "8127865575290614383", 5169034396)
+addappid(2669327, 1, "31970a047d64971c2ea8b19bbe117fa974d66424980227a1d7d2d6262b5dbe69") -- Spanish
+setManifestid(2669327, "8198328484011367904", 5493633845)
+addappid(2669328, 1, "afda87b077dfe9ffd05d8d16286646f99eefd1d5317eea27397b157a51513773") -- Schinese
+setManifestid(2669328, "6688489169711928475", 5406024523)
+addappid(2669329, 1, "cba103955aec236df9b4aa2a729060e69f945913d41fe741d48bd11edfcf6faa") -- Tchinese
+setManifestid(2669329, "4100270276454552706", 4062976621)
+addappid(2680691, 1, "7e336f037173d9491be5ab708032468f7873ef3aa10d66c71592c68f0aa9bb28") -- Russian
+setManifestid(2680691, "3964038065154161259", 5310370904)
+addappid(2680692, 1, "45bda3ea04f65dab8d6c879a4425a28a7fd425e307d46f3c8fd6a1f54e49e8f7") -- Japanese
+setManifestid(2680692, "4008944280510691451", 5709910867)
+addappid(2680693, 1, "3a23a69dc514223a590eead3190031e66bf74fdfb518f4241da1980f9aa3b27d") -- Portuguese
+setManifestid(2680693, "1894172545365758947", 4062992208)
+addappid(2680694, 1, "3efa7e40b483eafe6dd1ab0d630a534f4a59efc80f5a93f61d06628210886916") -- Polish
+setManifestid(2680694, "2269701458719285588", 5627217309)
+addappid(2680695, 1, "b0e4fd739905fbb7a8ae785a9e8e342b12abc7aa375954786c5e8f25687ccdca") -- Danish
+setManifestid(2680695, "5698308937701658977", 4062997214)
+addappid(2680696, 1, "8c434a5108df457d72c7f6472b97d3658e6d727d57ce5c2db7f8fb5676e70845") -- Dutch
+setManifestid(2680696, "6198365047874360393", 5755344565)
+addappid(2680697, 1, "e14e95bfcc27a1a58ce4841f1e94b0ab0a351fcf7cf3a4383a3a88f613148d55") -- Norwegian
+setManifestid(2680697, "7084185209381154316", 4062997442)
+addappid(2680698, 1, "05b460cb4261fe5841ae3420742eb2d457e4a26534007281ccbad624733331e8") -- Swedish
+setManifestid(2680698, "2407673484597783089", 4063002464)
+addappid(2680699, 1, "fd5aafb61688f4719e52cd5424b0541c0f80136f0cf186f1a0c66345ab9534a2") -- Czech
+setManifestid(2680699, "5625354530565475879", 4063029045)
+addappid(2729900, 1, "cd5183550e52913bb9bf1d40ff2c4de7e7e577cd230d15ada99473f6c367559f") -- Turkish
+setManifestid(2729900, "3992618973168510907", 4062996361)
+addappid(2729901, 1, "21634bae2b1aed165f2d959a5c4b16bcdeabc02b6f57bae0769628aef8708fe2") -- Arabic
+setManifestid(2729901, "3623094243050134489", 5897251185)
+addappid(2729902, 1, "1aa3d3f428af74beed3aa55d0688db59e4ca40652a97044e9878762c5d4135e3") -- Brazilian
+setManifestid(2729902, "8142272950266837863", 5789425891)
+addappid(2729903, 1, "01425fde4562981e5240f3797c537fc38d9001fd3a17607931c0ec196f129c40") -- Latam
+setManifestid(2729903, "7534281391755315430", 5764384469)
+
+-- DLC's (no depot keys required)
+addappid(2680690) -- EA SPORTS FC™ 25 - Key
+addappid(2898330) -- EA SPORTS FC™ 25 Ultimate Edition Content
+addappid(2898340) -- EA SPORTS FC™ 25 Standard Edition Pre-Purchase content
+addappid(2898350) -- EA SPORTS FC™ 25 Ultimate Edition Pre-Purchase content
+addappid(2898360) -- EA SPORTS FC™ 25 Ultimate Edition Pre-Purchase
+addappid(2898370) -- FC 25 - EA Play Trial Key
+addappid(2898380) -- FC 25 - Press Offer Key
+addappid(2898450) -- EA SPORTS FC™ 25 SHOWCASE
+addappid(3102940) -- EA SPORTS FC™ 25
+addappid(3170610) -- EA SPORTS FC™ 25 - FC Points
+addappid(3654680) -- EA SPORTS FC™ 25 Football Ultimate Team™ rewards
+addappid(3876160) -- EA SPORTS FC™ 25 Football Ultimate Team™ 92+ OVR ICON
+addappid(3971400) -- EA SPORTS FC™ 25 Football Ultimate Team™ reward
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228988, 1, "1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358") -- (windows)
+addappid(3340992, 1, "7112f072ac3a0100e541bc9b1556d3dd0697e7641094f3389e811ceb50efaf3e")
+setManifestid(3340992, "2619496628049087893", 270091526)
+addappid(3893181, 1, "7f675c2fe8e758d16f3cf8d3b493956afaee78e96d78cdb668a5edb8ac1580f6")
+setManifestid(3893181, "9141849802281396646", 398804705)
