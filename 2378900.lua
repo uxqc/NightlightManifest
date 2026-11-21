@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 2378900 - The Coffin of Andy and Leyley
--- Generated 2026-11-08 17:11:54 UTC
+-- Generated 2026-11-21 17:05:20 UTC
 -- # Depots (Total/DLC/Shared): 1/0/0
 
 -- Main AppID
