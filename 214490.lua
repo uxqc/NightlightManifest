@@ -1,6 +1,6 @@
 -- Generated with Luie @ https://lua.tools/
 -- 214490 - Alien: Isolation
--- Generated 2026-11-08 19:26:41 UTC
+-- Generated 2026-11-23 21:11:11 UTC
 -- # Depots (Total/DLC/Shared): 38/29/2
 
 -- Main AppID
