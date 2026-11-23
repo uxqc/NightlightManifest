@@ -1,0 +1,83 @@
+-- Generated with Luie @ https://lua.tools/
+-- 532210 - Life is Strange 2
+-- Generated 2026-11-23 12:21:57 UTC
+-- # Depots (Total/DLC/Shared): 34/22/3
+
+-- Main AppID
+addappid(532210, 1, "507d7b88b41c2647009368c8c371d06281bbf2512e368e12f76e4896acd8c7c8")
+
+-- Main Depots
+addappid(532211, 1, "344743553fe28d1cb223b91a036b2b349cd37f1cd8b47bbdaa2b9bee6aa4ca52") -- (windows)
+setManifestid(532211, "1704255813081240774", 11402414915)
+addappid(532212, 1, "5c46fdb04184ce24ce8be79a8304a4758e51ad4bd558fe17c22a00eb6770846a") -- (windows)
+setManifestid(532212, "985002808769226142", 29928891)
+addappid(532213, 1, "9dec97bcb2af1973a2f7eb2a3f8b012e015d45f2f1a6d0ae739ad2d268790cd9") -- (macos)
+setManifestid(532213, "1547640092698185943", 10986641889)
+addappid(872072, 1, "8a0c612620d1b32d0fd2dda979e70a8cca17a042af39807ed542f92fc2f733a0") -- (linux)
+setManifestid(872072, "4382091583663346650", 10986641889)
+addappid(872081, 1, "846d46046ab3d1b9850c7a82b6eb168738a5253194936646d13062d313e74031") -- (macos)
+setManifestid(872081, "4961956475339474782", 220741927)
+addappid(872082, 1, "6778698b8ab47913062d0ec5946d1f47b90d4411ebc75a4fbbc3c9cdb789d719") -- (linux)
+setManifestid(872082, "7082086426705416049", 404627510)
+addappid(872083, 1, "eecb696fb7281aedce26c44a081d305e3d3c1ab91cf6ecde04f9abc6bf6b4841") -- (macos)
+setManifestid(872083, "3922613490178843069", 29928891)
+addappid(872084, 1, "ff496f38f98dd7ad85f8088e8a689162acb0a6406a69653c38877c23f3041b79") -- (linux)
+setManifestid(872084, "4823651083190931841", 29928891)
+addappid(872085, 1, "f1e650b74da4ba33a95f6fd6fb14f8107238fc82b0c782c6d8ee4f6cd31b9910") -- (windows)
+setManifestid(872085, "372853533079281574", 397167616)
+
+-- DLC's (no depot keys required)
+addappid(872070) -- Life is Strange 2 - Arcadia Bay Patches DLC
+addappid(872080) -- DLC 872080
+addtoken(872080, "3818905396652520600")
+addappid(874661) -- Life is Strange 2 - Episodes 2-5 bundle
+addappid(875580) -- DLC 875580
+
+-- DLC's (with depot keys)
+-- Life is Strange 2 - Episode 2 (AppID: 895490)
+addappid(895490)
+addappid(532215, 1, "990feeae3d53b1a5eea30190f1f53733f0d44bb4f55862285937bc1cfc7d9e3a") -- (macos)
+setManifestid(532215, "6305435566416781370", 5739395753)
+addappid(872074, 1, "15b6abeeead1df7f49136ad3730f7a2403ac5a08ac31dbd92e420df3a5b3148f") -- (linux)
+setManifestid(872074, "5171793723607145939", 5739395753)
+addappid(895490, 1, "06aaea5890fa00c2ec429bb0aa37fa8da03442eeb35db3c409e47b4e4d41be8d") -- (windows)
+setManifestid(895490, "5609241141674524231", 5702242739)
+-- Life is Strange 2 - Episode 3 (AppID: 895491)
+addappid(895491)
+addappid(532216, 1, "9ac9971d6f26114476dc4adacf1cdbc682852f1f1273396251c7537ea9005eaf") -- (macos)
+setManifestid(532216, "852454767192181815", 7573547062)
+addappid(872075, 1, "29bc6aaba52122c868552ea3a19f5fd4f5e66f5413a04252fc02fa2d99d44fdc") -- (linux)
+setManifestid(872075, "6842862350329796445", 7573547062)
+addappid(895491, 1, "75badd923a5cd0e6d200968e2c3a859172d0a48fd05d47bff7267b921ccb070b") -- (windows)
+setManifestid(895491, "8969813146754980262", 7483688063)
+-- Life is Strange 2 - Episode 4 (AppID: 895492)
+addappid(895492)
+addappid(532217, 1, "186fbcc926febb4177f37f305b9fb2c0417a2357f9bb11f38da84e4a0e214697") -- (macos)
+setManifestid(532217, "5228349068781050876", 8176438166)
+addappid(872076, 1, "5332a04272fbd2c474e1a9fbbed73f1aa244582b89d6d10599156e1fcd501dd5") -- (linux)
+setManifestid(872076, "7152095107776680888", 8176438166)
+addappid(895492, 1, "632fd5e639f6be59deb6c3e0ee2a20c221396e8ef10df6da222a9f63e81f5570") -- (windows)
+setManifestid(895492, "8212484300333495035", 8055724024)
+-- Life is Strange 2 - Episode 5 (AppID: 895493)
+addappid(895493)
+addappid(532218, 1, "af9c5ae3330c4135773f6ed32e582b1c003bb342ef0d63cfab9cce749cdf7683") -- (macos)
+setManifestid(532218, "4150130929824824657", 10288359174)
+addappid(872077, 1, "a041fb8f876bdc8730cbc02eed2931a06c74f9691ebb34c5041806a6b485c049") -- (linux)
+setManifestid(872077, "7720442020683003386", 10288359174)
+addappid(895493, 1, "ab9e20134f74fb012f8594fc3a36c38259272809879b227b17cc4ab4cd8671e2") -- (windows)
+setManifestid(895493, "2372627434715733122", 10190172871)
+-- Life is Strange 2 - Japanese Language Pack (AppID: 1181740)
+addappid(1181740)
+addappid(872086, 1, "6e2f1a1606c2c3591514a5edabade19fd95cf27f30796e1489e31767091f9e34") -- Japanese (macos)
+setManifestid(872086, "4778522304749944667", 1985269921)
+addappid(872087, 1, "8649e4e66bc29fbef8cf98ed17ac713694082d845bf92ec1a9baa28d77287239") -- Japanese (linux)
+setManifestid(872087, "3193804310274669918", 1985269921)
+addappid(1181740, 1, "56a8341c113861664551d646c6c72e989ee8e72efb97844e303a9ff3b13d99ff") -- Japanese (windows)
+setManifestid(1181740, "6345619219813724313", 1985269921)
+
+-- Shared Depots (Runtimes / Launchers / ETC)
+addappid(228986, 1, "51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5") -- (windows)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- (windows)
+addappid(229005, 1, "aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a") -- (windows)
+
+-- Missing Depots (We don't have the keys yet lol): 532219, 872071, 872073, 872078, 872079, 957240, 1153740
